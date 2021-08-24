@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -26,7 +26,11 @@ sidebar:
 
       - idiom: Marathi
         level: Native
-        
+    
+    certifications:
+      - item: HashiCorp Terraform Associate
+        link: https://www.credly.com/badges/8674c88a-0c1c-4739-8e32-714d31a64b1b/public_url
+
     interests:
       - item: Cricket
         link:
