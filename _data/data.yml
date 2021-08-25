@@ -16,6 +16,7 @@ sidebar:
     phone: 07438348299
     linkedin: sachin-shetty-393b3a1b
     github: n00bc0der89
+    pdf: https://n00bc0der89.github.io/online-cv/resume/DevOps-SachinShetty.pdf
 
     languages:
       - idiom: English
@@ -28,8 +29,11 @@ sidebar:
         level: Native
     
     certifications:
-      - item: HashiCorp Terraform Associate
+      - item: HashiCorp Certified Terraform Associate
         link: https://www.credly.com/badges/8674c88a-0c1c-4739-8e32-714d31a64b1b/public_url
+
+      - item: MCHD - MapR Certified Hadoop Developer
+        link: https://verify.skilljar.com/c/vuwc35dzavpr
 
     interests:
       - item: Cricket
@@ -41,13 +45,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Total Experience of 10+ years in IT field with primary skills of DevOps process and methodology with extensive background in Software Development and Big Data Development.
-
-      Experience in working on Cloud platform (Azure), DevOps Tools, Linux Distributions, Infrastructure as a code (Terraform), Infrastructure automation, Container and Container Orchestration tools.
-      Focused on DevSecOps process
-      HashiCorp Certified Terraform Associate
-      MapR Certified Hadoop Developer (MCHD).
-      Past experience in developing Web based applications using C# language in ASP.Net MVC Framework and big data stack.
+      Total experience of 10+ years in IT field with primary skills in implementing DevOps process on the cloud platform. Responsible for building and managing complete CI/CD flow with focus on security and continuous monitoring in place. 
+      Worked in Agile environment and passionate about learning and implementing solution using advanced tools for the betterment of the process. Also has detailed understanding of Software Development LifeCycle.
 
 education:
     - degree: BE in Electronics & Telecom
